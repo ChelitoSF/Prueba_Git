@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Reserva</string>
+    <string name="Iniciar">Iniciar Sesion</string>
+    <string name="Usu">Usuario:</string>
+    <string name="Con">Contraseña:</string>
+    <string name="Con_">Contraseña: 6IM7Batiz</string>
+    <string name="Usu_">Usuario: ConsueloSF</string>
+    <string name="RealR">Reservar</string>
+    <string name="Cerrar">Cerrar Sesion</string>
+    <string name="Nom">Nombre: </string>
+    <string name="Ema">Email: </string>
+    <string name="Tel">Telefono: </string>
+    <string name="Dia">Fecha: </string>
+    <string name="Cel">Celular:</string>
+    <string name="Men">Menu</string>
+    <string name="Reser">Reservación Hecha</string>
+</resources>
